@@ -1,0 +1,11 @@
+{
+  "name": "tajweed-ts-madd-duration-calc",
+  "version": "1.0.0",
+  "description": "Quranic Madd Vowel Elongation Duration Calculator (حاسبة مقادير المدود الطبيعية والفرعية واللازمة بالحركات)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
